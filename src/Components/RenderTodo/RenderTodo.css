@@ -1,0 +1,12 @@
+table, td, th {
+    border: 1px solid;
+    padding: 0.5rem 1rem;
+  }
+  table {
+    background-color: aliceblue;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .table-title{
+    text-transform: capitalize;
+  }
